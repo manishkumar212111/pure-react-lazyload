@@ -1,0 +1,24 @@
+{
+    "author": {
+        "name": "Manish Kumar",
+        "url": "https://github.com/manishkumar212111"
+    },
+    "license": "MIT",
+    "main": "./index.js",
+    "name": "pure-react-lazyload",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/manishkumar212111/pure-react-lazyload"
+    },
+    "keywords": [
+        "lazyload",
+        "pure react lazyload",
+        "optimization",
+        "onscreenload"
+    ],
+    "type": "module",
+    "version": "1.0.0",
+    "dependencies": {
+        "react": "^18.2.0"
+    }
+}
